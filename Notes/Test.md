@@ -12,4 +12,4 @@
 -   Verifying display of image below:
 
 ![img](images/sc1.png "image png")
-![img](images/sc2.jpg "image jpg")
+![img](images/sc1.jpg "image jpg")
