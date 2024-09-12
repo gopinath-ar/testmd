@@ -13,3 +13,5 @@
 
 ![img](images/sc1.png "image png")
 ![img](images/sc1.jpg "image jpg")
+![img](images/Notes/sc1.png "image png")
+![img](images/Notes/sc1.jpg "image jpg")
